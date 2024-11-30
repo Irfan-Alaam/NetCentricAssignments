@@ -1,0 +1,7 @@
+C:\Users\Al Muzdhar Computers\source\repos\CalenderView_JaggedArray\CalenderView_JaggedArray\obj\Debug\CalenderView_JaggedArray.csproj.AssemblyReference.cache
+C:\Users\Al Muzdhar Computers\source\repos\CalenderView_JaggedArray\CalenderView_JaggedArray\obj\Debug\CalenderView_JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\Al Muzdhar Computers\source\repos\CalenderView_JaggedArray\CalenderView_JaggedArray\bin\Debug\CalenderView_JaggedArray.exe.config
+C:\Users\Al Muzdhar Computers\source\repos\CalenderView_JaggedArray\CalenderView_JaggedArray\bin\Debug\CalenderView_JaggedArray.exe
+C:\Users\Al Muzdhar Computers\source\repos\CalenderView_JaggedArray\CalenderView_JaggedArray\bin\Debug\CalenderView_JaggedArray.pdb
+C:\Users\Al Muzdhar Computers\source\repos\CalenderView_JaggedArray\CalenderView_JaggedArray\obj\Debug\CalenderView_JaggedArray.exe
+C:\Users\Al Muzdhar Computers\source\repos\CalenderView_JaggedArray\CalenderView_JaggedArray\obj\Debug\CalenderView_JaggedArray.pdb
