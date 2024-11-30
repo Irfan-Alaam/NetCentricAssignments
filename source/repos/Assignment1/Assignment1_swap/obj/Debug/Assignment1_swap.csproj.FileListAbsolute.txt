@@ -1,0 +1,7 @@
+C:\Users\Al Muzdhar Computers\source\repos\Assignment1_swap\Assignment1_swap\bin\Debug\Assignment1_swap.exe.config
+C:\Users\Al Muzdhar Computers\source\repos\Assignment1_swap\Assignment1_swap\bin\Debug\Assignment1_swap.exe
+C:\Users\Al Muzdhar Computers\source\repos\Assignment1_swap\Assignment1_swap\bin\Debug\Assignment1_swap.pdb
+C:\Users\Al Muzdhar Computers\source\repos\Assignment1_swap\Assignment1_swap\obj\Debug\Assignment1_swap.csproj.AssemblyReference.cache
+C:\Users\Al Muzdhar Computers\source\repos\Assignment1_swap\Assignment1_swap\obj\Debug\Assignment1_swap.csproj.CoreCompileInputs.cache
+C:\Users\Al Muzdhar Computers\source\repos\Assignment1_swap\Assignment1_swap\obj\Debug\Assignment1_swap.exe
+C:\Users\Al Muzdhar Computers\source\repos\Assignment1_swap\Assignment1_swap\obj\Debug\Assignment1_swap.pdb
