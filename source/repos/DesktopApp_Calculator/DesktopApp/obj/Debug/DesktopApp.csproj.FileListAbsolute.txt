@@ -1,0 +1,11 @@
+C:\Users\Al Muzdhar Computers\source\repos\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe.config
+C:\Users\Al Muzdhar Computers\source\repos\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe
+C:\Users\Al Muzdhar Computers\source\repos\DesktopApp\DesktopApp\bin\Debug\DesktopApp.pdb
+C:\Users\Al Muzdhar Computers\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.AssemblyReference.cache
+C:\Users\Al Muzdhar Computers\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Form1.resources
+C:\Users\Al Muzdhar Computers\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+C:\Users\Al Muzdhar Computers\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.cache
+C:\Users\Al Muzdhar Computers\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\Al Muzdhar Computers\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.exe
+C:\Users\Al Muzdhar Computers\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.pdb
+C:\Users\Al Muzdhar Computers\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Answer.resources
