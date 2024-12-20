@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|c:\\users\\al muzdhar computers\\source\\repos\\mvcdesktopapp\\mvcdesktopapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|solutionrelative:mvcdesktopapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|c:\\users\\al muzdhar computers\\source\\repos\\mvcdesktopapp\\mvcdesktopapp\\views\\user\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|solutionrelative:mvcdesktopapp\\views\\user\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|c:\\users\\al muzdhar computers\\source\\repos\\mvcdesktopapp\\mvcdesktopapp\\views\\user\\studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|solutionrelative:mvcdesktopapp\\views\\user\\studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|c:\\users\\al muzdhar computers\\source\\repos\\mvcdesktopapp\\mvcdesktopapp\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|solutionrelative:mvcdesktopapp\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|c:\\users\\al muzdhar computers\\source\\repos\\mvcdesktopapp\\mvcdesktopapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|solutionrelative:mvcdesktopapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|c:\\users\\al muzdhar computers\\source\\repos\\mvcdesktopapp\\mvcdesktopapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|solutionrelative:mvcdesktopapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|c:\\users\\al muzdhar computers\\source\\repos\\mvcdesktopapp\\mvcdesktopapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|solutionrelative:mvcdesktopapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|c:\\users\\al muzdhar computers\\source\\repos\\mvcdesktopapp\\mvcdesktopapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|solutionrelative:mvcdesktopapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|c:\\users\\al muzdhar computers\\source\\repos\\mvcdesktopapp\\mvcdesktopapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|solutionrelative:mvcdesktopapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|c:\\users\\al muzdhar computers\\source\\repos\\mvcdesktopapp\\mvcdesktopapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|solutionrelative:mvcdesktopapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|c:\\users\\al muzdhar computers\\source\\repos\\mvcdesktopapp\\mvcdesktopapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|solutionrelative:mvcdesktopapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|c:\\users\\al muzdhar computers\\source\\repos\\mvcdesktopapp\\mvcdesktopapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D17D0A-B952-4258-9873-EBF14CB77666}|mvcDesktopApp\\mvcDesktopApp.csproj|solutionrelative:mvcdesktopapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mvcDesktopApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mvcDesktopApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACMAAABgMjMzMzMbwCcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T04:47:31.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "mvcDesktopApp\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "mvcDesktopApp\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T04:49:49.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Views\\Home\\contact.cshtml",
+              "RelativeDocumentMoniker": "mvcDesktopApp\\Views\\Home\\contact.cshtml",
+              "ToolTip": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Views\\Home\\contact.cshtml",
+              "RelativeToolTip": "mvcDesktopApp\\Views\\Home\\contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T03:26:16.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Views\\User\\StudentList.cshtml",
+              "RelativeDocumentMoniker": "mvcDesktopApp\\Views\\User\\StudentList.cshtml",
+              "ToolTip": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Views\\User\\StudentList.cshtml",
+              "RelativeToolTip": "mvcDesktopApp\\Views\\User\\StudentList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T04:30:26.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Views\\User\\UserList.cshtml",
+              "RelativeDocumentMoniker": "mvcDesktopApp\\Views\\User\\UserList.cshtml",
+              "ToolTip": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Views\\User\\UserList.cshtml",
+              "RelativeToolTip": "mvcDesktopApp\\Views\\User\\UserList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T03:28:17.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "mvcDesktopApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "mvcDesktopApp\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T04:57:58.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvcDesktopApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "mvcDesktopApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T04:43:30.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "mvcDesktopApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Models\\User.cs",
+              "RelativeToolTip": "mvcDesktopApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:37:27.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "mvcDesktopApp\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Models\\Student.cs",
+              "RelativeToolTip": "mvcDesktopApp\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:24:37.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "mvcDesktopApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "mvcDesktopApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAABAMjMzMzMhwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T03:38:27.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "mvcDesktopApp\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Models\\Contact.cs",
+              "RelativeToolTip": "mvcDesktopApp\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:36:37.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "mvcDesktopApp\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Al Muzdhar Computers\\source\\repos\\mvcDesktopApp\\mvcDesktopApp\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "mvcDesktopApp\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAcAAAAAMjMzM7MWwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T04:58:50.689Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
